@@ -1,0 +1,15 @@
+{
+  "name": "third-angle-of-the-triangle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "type": "module",
+  "author": "Julia",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^1.6.0"
+  }
+}
